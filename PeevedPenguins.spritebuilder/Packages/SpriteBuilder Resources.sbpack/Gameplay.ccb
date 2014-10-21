@@ -202,7 +202,7 @@
 				<key>displayName</key>
 				<string>catapultarm</string>
 				<key>memberVarAssignmentName</key>
-				<string>_catapaultarm</string>
+				<string>_catapultarm</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -223,8 +223,8 @@
 						<key>value</key>
 						<array>
 							<real>245.89881896972656</real>
-							<real>133.59283447265625</real>
-							<integer>1</integer>
+							<real>186.40716552734375</real>
+							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
 						</array>
